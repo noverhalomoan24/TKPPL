@@ -1,3 +1,4 @@
-.Judul {
-    background-color: aqua;
+#deck .Judul {
+    font-style: italic;
+    color: blue;
 }
