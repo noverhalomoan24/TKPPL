@@ -1,4 +1,4 @@
-#deck .Judul {
+.Judul h1{
     font-style: italic;
     color: blue;
 }
